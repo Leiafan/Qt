@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/main_bg">
+        <file>img/main_background.jpg</file>
+    </qresource>
+    <qresource prefix="/info_bg">
+        <file>img/info_background.jpg</file>
+    </qresource>
+    <qresource prefix="/wallpaper">
+        <file>img/origami.jpg</file>
+    </qresource>
+    <qresource prefix="/mw">
+        <file>img/logo_ksu.jpg</file>
+    </qresource>
+    <qresource prefix="/mwp">
+        <file>img/logoХДУ.jpg</file>
+    </qresource>
+    <qresource prefix="/logo_inactive">
+        <file>img/cute-aww.gif</file>
+    </qresource>
+</RCC>
