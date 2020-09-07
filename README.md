@@ -2,7 +2,7 @@
 
 What is this?
 -------------
-An OOP with usage of C++ and Qt for database and connection management.
+An OOP with the usage of C++ and Qt for database and connection management.
 
 Installation
 -----------
